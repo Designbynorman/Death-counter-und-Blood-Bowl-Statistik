@@ -1,5 +1,3 @@
-XXX
-
 Snippet (Vorlage) zum erstellen diverser Counter. Plus Chat Nachricht ausgegeben, optional auch an den Discord.
 
 [DesignbyNorman Website](https://www.designbynorman.com/)
