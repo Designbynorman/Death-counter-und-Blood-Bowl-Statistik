@@ -10,6 +10,8 @@ Snippet (Vorlage) zum erstellen diverser Counter. Plus Chat Nachricht ausgegeben
 
 ![SB Screenshot](https://github.com/Designbynorman/Death-counter-und-Blood-Bowl-Statistik/blob/main/cj1.png)
 
+![SB Import](https://github.com/Designbynorman/Death-counter-und-Blood-Bowl-Statistik/blob/main/counters.png)
+
 ![Overlay Ansicht](https://github.com/Designbynorman/Death-counter-und-Blood-Bowl-Statistik/blob/main/overlay.png)
 
 [Beispiel](https://clips.twitch.tv/UglyAntediluvianOxOSsloth-k09ZmZd1zuwWWAxh)
