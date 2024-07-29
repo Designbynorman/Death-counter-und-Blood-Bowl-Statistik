@@ -4,6 +4,9 @@ Snippet (Vorlage) zum erstellen diverser Counter. Plus Chat Nachricht ausgegeben
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
 
+![Zeitstempel](
+https://github.com/Designbynorman/SceneCamStreamerBot/blob/main/Zeitstempel.jpg)
+
 [Discord, falls ihr Fragen habt!](https://discord.gg/Gdt94HaFbM)
 
 ![SB Screenshot](https://github.com/Designbynorman/Death-counter-und-Blood-Bowl-Statistik/blob/main/cj1.png)
