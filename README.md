@@ -1,5 +1,7 @@
 Snippet (Vorlage) zum erstellen diverser Counter. Plus Chat Nachricht ausgegeben, optional auch an den Discord.
 
+[![ko-fi](https://storage.ko-fi.com/cdn/brandasset/kofi_button_dark.png)](https://ko-fi.com/W7W5Z38WJ)
+
 [DesignbyNorman Website](https://www.designbynorman.com/)
 
 [SB Einrichtung](https://www.designbynorman.com/streamer-bot-einrichten/)
